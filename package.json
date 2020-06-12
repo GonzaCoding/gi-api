@@ -1,0 +1,31 @@
+{
+  "name": "gi-api",
+  "version": "1.0.0",
+  "description": "Api RESTFull de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghiglesias/gi-api.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "api",
+    "restfull"
+  ],
+  "author": "Gonzalo Iglesias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghiglesias/gi-api/issues"
+  },
+  "homepage": "https://github.com/ghiglesias/gi-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.18"
+  }
+}
