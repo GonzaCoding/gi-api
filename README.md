@@ -16,11 +16,13 @@ npm install --save-dev nodemon //dependencia solo para desarrollo, hace que actu
 ```
 ## Comandos git
 
-`git init //crear repo local`<br />
-`git remote add origin https://github.com/[USER]/[REPO].git //vincular con repo en github`<br />
-`git add . //marcar archivos para commit inicial`<br />
-`git commit -m "Primer commit" //commit inicial`<br />
-`git push origin master --force //sin el force tira error de fast-forward`
+```
+git init //crear repo local
+git remote add origin https://github.com/[USER]/[REPO].git //vincular con repo en github
+git add . //marcar archivos para commit inicial
+git commit -m "Primer commit" //commit inicial
+git push origin master --force //sin el force tira error de fast-forward
+```
 
 ## Configuraciones
 
